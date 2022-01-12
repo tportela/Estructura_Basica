@@ -3,3 +3,4 @@ En este repositorio muestro la estructura báscia de un programa para Arduino, N
 Modificación hecha por Tadeo desde la línea de consola para reflejar cambios en github
 Estos cambios se hicieron desde VSCode 
 2
+Hola
